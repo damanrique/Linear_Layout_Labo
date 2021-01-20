@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Linear Layout</string>
+
+    <string name="spinner_pregunta">Choose a Layout</string>
+
+    <string-array name="spinner_list">
+        <item>Choose a Layout</item>
+        <item>LinearLayout</item>
+        <item>RelativeLayout</item>
+        <item>FrameLayout</item>
+        <item>TableLayout</item>
+        <item>AbsoluteLayout</item>
+        <item>GridLayout</item>
+    </string-array>
+
 </resources>
